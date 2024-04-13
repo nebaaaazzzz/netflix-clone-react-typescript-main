@@ -6,7 +6,7 @@
   <h3 align="center">Netflix Clone</h3>
 
   <p align="center">
-    <a href="https://netflix-clone-react-typescript.vercel.app/">View Demo</a>
+    <a href="https://netflix-clone-react-typescript-main-mmpzhr6ax.vercel.app/">View Demo</a>
   </p>
 </div>
 
